@@ -1,6 +1,8 @@
-npm install
+//API TO FETCH ORDER DETAILS
 
-nodemon server.js
+installed express , cors , mongoose , nodemon
+
+nodemon server.js -used to run automatically
 
 GET /api/orders  --  returns all the orders
 GET /api/orders/:id -- returns details of a specific order
